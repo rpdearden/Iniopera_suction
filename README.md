@@ -9,7 +9,7 @@ The files are titled as:
 
 They should be ready to go, though obviously you will have to modify file paths, and maybe update some of the code depending on how far into the future you are from the upload of these files.
 
-I am currently working out how to best link to the Blender files associated with the scripts as they are larger than githubs maximum file size but I hope to have them up here soon. If you need them in the meantime please contact me at the address below.
+The Blender files that the python scripts accompany were too big for GitHub and are available on FigShare at the following DOI: https://doi.org/10.6084/m9.figshare.21904290
 
 All of the 3D models and data used in these scripts is linked to in the paper itself.
 
