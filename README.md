@@ -2,10 +2,10 @@
 This repository holds the Python and R scripts used in "Evidence for high-performance suction feeding in the Pennsylvanian stem-group holocephalan Iniopera" 2023 Dearden et al. PNAS.
 
 The files are titled as:
--Iniopera_Stretch: files associated with the gape analysis
--Iniopera_MAForce: files associated with the estimates of mechanical advantage and force
--Iniopera_ROM: files associated with the hyoid range of motion analysis
--Iniopera_VolumeExp: files associated with the estimate of 
+* Iniopera_Stretch: files associated with the gape analysis
+* Iniopera_MAForce: files associated with the estimates of mechanical advantage and force
+* Iniopera_ROM: files associated with the hyoid range of motion analysis
+* Iniopera_VolumeExp: files associated with the volume estimates
 
 They should be ready to go, though obviously you will have to modify file paths, and maybe update some of the code depending on how far into the future you are from the upload of these files.
 
